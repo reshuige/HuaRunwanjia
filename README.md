@@ -1,0 +1,7 @@
+增加多线程查询的功能。代理IP教程：http://reshuige.com/ipjc.html
+
+华润管理工具v4.4下载地址：https://rsg.lanzouh.com/hrglgjys
+
+赞助地址：https://www.zuuu.cn/links/8143AFB1
+
+华润库存地址：http://reshuige.com/kc.html
